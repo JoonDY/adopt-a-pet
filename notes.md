@@ -11,3 +11,9 @@ url
 photo
 
 search
+
+- type
+- breed
+- age
+- gender
+- size
